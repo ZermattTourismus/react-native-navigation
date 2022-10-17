@@ -3,7 +3,7 @@
     package="com.reactnativenavigation">
 
     <application
-        android:enableOnBackInvokedCallback="true">
+       >
         <activity
             android:name="com.facebook.react.devsupport.DevSettingsActivity"
             android:exported="false"/>
